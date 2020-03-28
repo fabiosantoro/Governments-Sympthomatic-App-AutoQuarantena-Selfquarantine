@@ -1,6 +1,7 @@
 # Governments Symptomatic App 
 # COVID19 AutoQuarantena-Selfquarantine
 <B>Governments/WHO Self Quarantine App NO PROFIT/ OPEN SOURCE</B>
+![](copertina-Fb.gif)
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
