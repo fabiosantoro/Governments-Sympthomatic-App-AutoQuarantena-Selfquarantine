@@ -1,6 +1,8 @@
 # Governments Symptomatic App 
 # COVID19 AutoQuarantena-Selfquarantine
 <B>Governments/WHO Self Quarantine App NO PROFIT/ OPEN SOURCE</B>
+<BR>
+<b> Sample back-end Admin Map: </b>
 ![](copertina-Fb.gif)
 <html>
 <head>
